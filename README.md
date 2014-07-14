@@ -1,5 +1,4 @@
-Readme - 295-C-Questions
-========================
+README - 295-C-Questions
 
 What is it?
 ===========
